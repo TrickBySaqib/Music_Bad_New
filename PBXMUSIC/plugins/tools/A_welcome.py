@@ -183,27 +183,9 @@ async def greet_new_members(_, member: ChatMemberUpdated):
 ➤ 𝐍ᴀᴍᴇ 🖤 ◂⚚▸ {user.mention} ❤️🔐
 ➤ 𝐔ꜱᴇʀ 𝐈ᴅ 🖤 ◂⚚▸ `{user.id}` ❤️🧿
 ➤ 𝐔ꜱᴇʀɴᴀᴍᴇ 🖤 ◂⚚▸ @{user.username} ❤️🌎
-
- ┏━━━━━━━⛈━━━━━━━┓
-     ✫ ᴛᴇʀɪ ᴍᴇʀɪ ᴅᴏꜱᴛɪ ɪᴛɴɪ
-               ᴋʜᴀꜱ ʜᴏ ᴋᴇ ✤
-      ✫ ᴅᴜɴɪʏᴀ ᴋᴀʜᴇ ᴋᴀᴀꜱʜ
-             ᴀɪꜱᴀ ᴅᴏꜱᴛ ᴍᴇʀᴇ 
-                  ᴘᴀꜱꜱ ʜᴏ ✤
- ┗━━━━━━━⛱━━━━━━━┛
-┏━━━━━━━━━🧸━━━━━━━━┓
   𓆩 @OWNER_TBS 𓆪
-┗━━━━━━━━━🧸━━━━━━━━┛
-
 ➤ 𝐌ᴇᴍʙᴇʀs 🖤 ◂⚚▸ {count} ❤️🍂
-
-✦ 𝗥ᴜʟᴇꜱ :- 💫 💛
-
-ᴄʟɪᴄᴋ ʜᴇʀᴇ /rules ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʏᴘᴇ  @admin ❤️🔓
-
-• 𝐅ᴏʟʟᴏᴡ 𝐎ᴜʀ 𝐑ᴜʟᴇꜱ 𝐏ʟᴇᴀꜱᴇ • 😌✌️❤️
-
-ʙᴇ ʜᴀᴘᴘʏ ᴀɴᴅ ᴍᴀᴋᴇ ɢʀᴏᴜᴘ ✫**"""
+**"""
             await asyncio.sleep(3)
             await userbot.send_message(chat_id, text=welcome_text)
     except Exception as e:
