@@ -73,13 +73,13 @@ def aq_markup(_, chat_id):
             InlineKeyboardButton(text="↺ ", callback_data=f"ADMIN Replay|{chat_id}"),
         ],
         [
-            InlineKeyboardButton(text="𐏓 ⃪⃝🇺🇸 ꯭𝗗ᴇᴠɪ𝗟 ꯭༎ࠫ⛧‌", url="https://t.me/STYLISH_FOUT_CHANNEL"),
-            InlineKeyboardButton(text="⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂⎯꯭ ꯭̽🌸", url="https://t.me/OWNER_TBS"),
+            InlineKeyboardButton(text="𐏓 ⃪⃝🇺🇸 ꯭𝗗ᴇᴠɪ𝗟 ꯭༎ࠫ⛧‌", url="https://t.me/ll_OYE_KUNAAL_ll"),
+            InlineKeyboardButton(text="⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂⎯꯭ ꯭̽🌸", url="https://t.me/ll_Bot_Promotion_ll"),
         ],
         [
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/STYLISH_FOUT_CHANNEL",
+                url="https://t.me/ll_Bot_Promotion_ll",
             ),
         ],
     ]
@@ -106,8 +106,8 @@ def queuemarkup(_, vidid, chat_id):
             InlineKeyboardButton(text="↺ ", callback_data=f"ADMIN Replay|{chat_id}"),
         ],
         [
-            InlineKeyboardButton(text="𐏓 ⃪⃝🇺🇸 ꯭𝗗ᴇᴠɪ𝗟 ꯭༎ࠫ⛧‌", url="https://t.me/STYLISH_FOUT_CHANNEL"),
-            InlineKeyboardButton(text="⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂⎯꯭ ꯭̽🌸", url="https://t.me/OWNER_TBS"),
+            InlineKeyboardButton(text="𐏓 ⃪⃝🇺🇸 ꯭𝗗ᴇᴠɪ𝗟 ꯭༎ࠫ⛧‌", url="https://t.me/ll_OYE_KUNAAL_ll"),
+            InlineKeyboardButton(text="⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂⎯꯭ ꯭̽🌸", url="https://t.me/ll_Bot_Promotion_ll"),
         ],
         [
             InlineKeyboardButton(
