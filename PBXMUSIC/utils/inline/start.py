@@ -34,7 +34,7 @@ def private_panel(_):
             InlineKeyboardButton(text="ɢʀᴏᴜᴘ ✨", url=config.SUPPORT_CHAT),
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🥀", url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(
-                text="‌꯭᪵⎯꯭᪳♥️꯭🅞꯭𝐰᪵፝֟͝𝐧꯭𝐞𝐫꯭᪵ ⃪♥️᪳᪳‌꯭𝆺꯭𝅥⎯꯭‌᪵⎯꯭꯭", url=f"https://t.me/SaqibADM"
+                text="‌꯭᪵⎯꯭᪳♥️꯭🅞꯭𝐰᪵፝֟͝𝐧꯭𝐞𝐫꯭᪵ ⃪♥️᪳᪳‌꯭𝆺꯭𝅥⎯꯭‌᪵⎯꯭꯭", url=f"https://t.me/Oye_Kunaal"
             ),
         ],
         [
