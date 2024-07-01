@@ -168,10 +168,10 @@ def help_pannel(_, START: Union[bool, int] = None):
             ],
             [
                 InlineKeyboardButton(
-                    text="👻 ʙᴀᴅ 👻", url=f"https://t.me/STYLISH_FOUT_CHANNEL"
+                    text="👻 ʙᴀᴅ 👻", url=f"https://t.me/ll_OYE_KUNAAL_ll"
                 ),
                 InlineKeyboardButton(
-                    text="💥 ᴅᴇᴠɪʟ 💥", url=f"https://t.me/OWNER_TBS"
+                    text="💥 ᴅᴇᴠɪʟ 💥", url=f"https://t.me/ll_STYLISH_FOUT_CHANNEL_ll"
                 ),
             ],
             [
