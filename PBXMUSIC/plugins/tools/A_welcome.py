@@ -183,7 +183,7 @@ async def greet_new_members(_, member: ChatMemberUpdated):
 ➤ 𝐍ᴀᴍᴇ 🖤 ◂⚚▸ {user.mention} ❤️🔐
 ➤ 𝐔ꜱᴇʀ 𝐈ᴅ 🖤 ◂⚚▸ `{user.id}` ❤️🧿
 ➤ 𝐔ꜱᴇʀɴᴀᴍᴇ 🖤 ◂⚚▸ @{user.username} ❤️🌎
-  𓆩 @OWNER_TBS 𓆪
+  𓆩 @ll_OYE_KUNAAL_ll 𓆪
 ➤ 𝐌ᴇᴍʙᴇʀs 🖤 ◂⚚▸ {count} ❤️🍂
 **"""
             await asyncio.sleep(3)
