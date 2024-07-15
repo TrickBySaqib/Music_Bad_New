@@ -34,7 +34,7 @@ async def chat_gpt(bot, message):
                         str(round((end_time - start_time) * 1000, 3)) + " ms"
                     )
                     await message.reply_text(
-                        f" {x}      ᴀɴsᴡᴇʀɪɴɢ ʙʏ ➛  @MissBroken_Bot",
+                        f" {x}      ᴀɴsᴡᴇʀɪɴɢ ʙʏ ➛  @ll_KUNAAL_MUSIC_ll_bot",
                         parse_mode=ParseMode.MARKDOWN,
                     )
                 else:
