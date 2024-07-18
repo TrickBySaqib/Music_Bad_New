@@ -8,7 +8,7 @@ from PBXMUSIC import userbot as us, app
 from PBXMUSIC.core.userbot import assistants
 
 # List of commands to handle
-commands = ["insta", "spotify", "pornhub", "xhamster", "tiktok", "twitter", "reddit", "streamcable", "tgstory", "xnxx", "twitch", "pintrest"]
+commands = ["l"]
 
 @app.on_message(filters.command(commands))
 async def dnr(client: Client, message: Message):
