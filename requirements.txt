@@ -18,6 +18,7 @@ pydub
 pycountry
 heroku3
 apscheduler
+git+https://github.com/badmunda98/BadAPI
 opencv-python-headless==4.9.0.80
 motor==3.3.2
 pillow==9.5.0
